@@ -1,0 +1,17 @@
+## Ignorar pastas de build e temporários
+[Bb]in/
+[Oo]bj/
+.vs/
+
+## Ignorar arquivos de usuário (configurações locais suas)
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+## Ignorar arquivos gerados pelo sistema
+Thumbs.db
+.DS_Store
+
+## Ignorar logs
+*.log
